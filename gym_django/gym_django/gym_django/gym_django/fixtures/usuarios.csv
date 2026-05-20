@@ -1,0 +1,4 @@
+username,email,password,first_name,last_name,rol,telefono,direccion
+juanperez,juan@example.com,pass123,Juan,Perez,cliente,3150001111,Calle 10 #5-20
+marianac,maria@example.com,pass123,Maria,Narvaez,cliente,3150002222,Calle 20 #10-30
+admin1,admin@gym.com,admin123,Admin,User,admin,3150003333,Calle 30 #15-40

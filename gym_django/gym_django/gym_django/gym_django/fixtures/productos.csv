@@ -1,0 +1,6 @@
+nombre,descripcion,categoria,precio_costo,precio_venta,stock_actual,estado
+Proteina Whey,Proteina en polvo sabor vainilla,Suplementos,80000,120000,50,activo
+Creatina,Creatina monohidratada 300g,Suplementos,45000,65000,30,activo
+Pre-entreno,Pre-entreno boost rendimiento,Suplementos,55000,80000,25,activo
+Mancuernas 5kg,Pares de mancuernas ajustables,Fitness,120000,180000,10,activo
+Colchoneta,Yoga mats ejercicio,Accesorios,35000,50000,20,activo

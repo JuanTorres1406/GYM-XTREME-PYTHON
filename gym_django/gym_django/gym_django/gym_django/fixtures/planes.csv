@@ -1,0 +1,5 @@
+nombre,tipo,precio,descripcion,duracion_dias
+Plan Diario,1_dia,15000,Acceso por 1 dia a todas las areas,1
+Plan Mensual,1_mes,120000,Acceso ilimitado por 1 mes,30
+Plan Semestral,6_meses,600000,Acceso ilimitado por 6 meses,180
+Plan Anual,1_ano,1000000,Acceso ilimitado por 1 ano,365
